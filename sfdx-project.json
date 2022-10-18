@@ -10,6 +10,13 @@
             "versionName": "ver 0.1",
             "versionNumber": "0.1.0.NEXT",
             "default": false
+        },
+        {
+            "path": "/force/app/main/default",
+            "package": "DX1",
+            "versionName": "ver 0.1",
+            "versionNumber": "0.1.0.NEXT",
+            "default": false
         }
     ],
     "namespace": "",
@@ -17,6 +24,7 @@
     "sourceApiVersion": "44.0",
     "packageAliases": {
         "Appveyor": "0Ho4x000000XZOaCAO",
-        "Appveyor@0.1.0-1": "04t4x000000ycGfAAI"
+        "Appveyor@0.1.0-1": "04t4x000000ycGfAAI",
+        "DX1": "0Ho5g000000CaruCAC"
     }
 }
