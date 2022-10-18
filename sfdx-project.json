@@ -4,20 +4,7 @@
             "path": "force-app",
             "default": true
         },
-        {
-            "path": "force-app/main/default",
-            "package": "Appveyor",
-            "versionName": "ver 0.1",
-            "versionNumber": "0.1.0.NEXT",
-            "default": false
-        },
-        {
-            "path": "/force/app/main/default",
-            "package": "DX1",
-            "versionName": "ver 0.1",
-            "versionNumber": "0.1.0.NEXT",
-            "default": false
-        }
+       
     ],
     "namespace": "",
     "sfdcLoginUrl": "https://login.salesforce.com",
